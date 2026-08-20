@@ -1,0 +1,1 @@
+print('Hei, Antonina!'); #teht 1
